@@ -1,0 +1,4 @@
+#Wed Apr 25 18:17:05 BRT 2018
+base.0=/home/aluno/Área de Trabalho/pokemon/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
